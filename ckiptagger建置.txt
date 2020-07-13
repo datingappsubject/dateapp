@@ -1,0 +1,10 @@
+環境:python >3.6 cuda 10.0.0 tensorflow >= 1.13.1，必須要 <2
+numpy == 1.16.0
+CMD操作:
+pip3 install ckiptagger
+pip3 install tensorflow
+
+將data資料夾放於操作之位置
+data link:https://drive.google.com/drive/folders/1yWwZRhP1O1JiM7Cx_j5qpwIJpPZwAbu6?usp=sharing
+執行範例程式碼(ex.py)
+
